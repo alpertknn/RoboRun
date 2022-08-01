@@ -11,4 +11,4 @@ You can clone script files via this link
   git clone https://github.com/alpertknn/RoboRun
 ```
 
-<img src="https://raw.githubusercontent.com/alpertknn/RoboRun/main/screenshots/2.PNG" data-canonical-src="https://raw.githubusercontent.com/alpertknn/RoboRun/main/screenshots/2.PNG" width="200" height="400" />
+<img src="https://raw.githubusercontent.com/alpertknn/RoboRun/main/screenshots/2.PNG" data-canonical-src="https://raw.githubusercontent.com/alpertknn/RoboRun/main/screenshots/2.PNG" width="400" height="400" />

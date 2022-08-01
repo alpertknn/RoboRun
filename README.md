@@ -10,6 +10,6 @@ You can clone script files via this link
 ```bash
   git clone https://github.com/alpertknn/RoboRun
 ```
-![super-necessary](/screenshots/2.png | width=100)
+![super-necessary](/screenshots/2.png | width=100 height=100)
 
   

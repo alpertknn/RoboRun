@@ -10,4 +10,4 @@ You can clone script files via this link
 ```bash
   git clone https://github.com/alpertknn/RoboRun
 ```
-![super-necessary](/screenshots/2.png =250x250)
+![]([https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://raw.githubusercontent.com/alpertknn/RoboRun/main/screenshots/2.PNG) =250x250)

@@ -5,8 +5,6 @@ forward, turning right, left and jumping from obstacles. In the game, the main i
 collecting more points. User can achieve only if the user avoids bumping from obstacles. 
 
 
-## Bilgisayarınızda Çalıştırın
-
 You can clone script files via this link
 
 ```bash
